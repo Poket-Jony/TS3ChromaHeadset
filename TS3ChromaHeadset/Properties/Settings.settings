@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TS3ChromaHeadset.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="colorPoke" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="colorTextMessage" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Aqua</Value>
+    </Setting>
+    <Setting Name="activePoke" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="activeTextMessage" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
